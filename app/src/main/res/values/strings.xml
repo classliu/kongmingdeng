@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">孔明灯</string>
+    <string name="accessibility_service_description">开启功能, 以跟踪栈顶 Activity</string>
+    <string name="accessibility_service_description_openapp">"请先开启&#160;孔明灯&#160;的辅助功能"</string>
+    <string name="close_floating_view">关闭悬浮框</string>
+</resources>
